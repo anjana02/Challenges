@@ -6,6 +6,14 @@
 	<title>Registration system PHP and MySQL</title>
 </head>
 <body>
+	<style>
+		.header {
+			color: rgb(11, 104, 167);
+			font-size: 20px;
+			padding: 15px;
+			text-align: center;
+		}
+	</style>
 	<div class="header">
 		<h2>Welcome admin!!</h2> 
 
